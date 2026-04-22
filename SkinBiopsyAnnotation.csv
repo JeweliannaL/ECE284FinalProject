@@ -1,0 +1,328 @@
+﻿patient,status,category,type,subtype,dataset,slide
+DSB101-A,positive,BCC,BCC,BCC-nodular,train,DSB101-A
+DSB101-A-1,positive,BCC,BCC,BCC-nodular,train,DSB101-A-1
+DSB103-A,positive,BCC,BCC,BCC-nodular,test,DSB103-A
+DSB104-A,positive,BCC,BCC,BCC-nodular,train,DSB104-A
+DSB104-A-1,positive,BCC,BCC,BCC-nodular,train,DSB104-A-1
+DSB105-A,positive,BCC,BCC,BCC-infiltrative,test,DSB105-A
+DSB105-A-1,positive,BCC,BCC,BCC-infiltrative,test,DSB105-A-1
+DSB105-B,positive,BCC,BCC,BCC-infiltrative,train,DSB105-B
+DSB105-C,positive,BCC,BCC,BCC-nodular,train,DSB105-C
+DSB105-C-1,positive,BCC,BCC,BCC-nodular,test,DSB105-C-1
+DSB106-A,positive,SCC,SCC,SCC in situ,train,DSB106-A
+DSB106-A-2,positive,SCC,SCC,SCC in situ,train,DSB106-A-2
+DSB108-A,positive,SCC,SCC,SCC-welldiff,train,DSB108-A
+DSB108-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB108-A-1
+DSB109-A-1,positive,SCC,SCC,SCC in situ,test,DSB109-A-1
+DSB109-A-2,positive,SCC,SCC,SCC in situ,train,DSB109-A-2
+DSB110-A,positive,BCC,BCC,BCC-nodular,train,DSB110-A
+DSB110-B,positive,BCC,BCC,BCC-nodular,test,DSB110-B
+DSB111-A,positive,BCC,BCC ,BCC-infiltrative,train,DSB111-A
+DSB111-A-1,positive,BCC,BCC ,BCC-infiltrative,test,DSB111-A-1
+DSB112-A,negative,negative,SK,SK,test,DSB112-A
+DSB112-A-2,negative,negative,SK,SK,train,DSB112-A-2
+DSB113-A,positive,BCC,BCC,BCC-nodular,train,DSB113-A
+DSB113-A-2,positive,BCC,BCC,BCC-nodular,test,DSB113-A-2
+DSB115-A,positive,BCC,BCC,BCC-infiltrative,train,DSB115-A
+DSB116-B,positive,BCC,BCC,BCC-nodular,train,DSB116-B
+DSB117-A,positive,BCC,BCC,BCC-nodular,test,DSB117-A
+DSB118-A,positive,SCC,SCC,SCC-welldiff,test,DSB118-A
+DSB118-A-1,positive,SCC,SCC,SCC-welldiff,test,DSB118-A-1
+DSB120-A,negative,negative,SK,SK,train,DSB120-A
+DSB120-A-2,negative,negative,SK,SK,test,DSB120-A-2
+DSB121-A-1,positive,BCC,BCC,BCC-nodular,train,DSB121-A-1
+DSB121-A-2,positive,BCC,BCC,BCC-nodular,train,DSB121-A-2
+DSB121-B-1,positive,BCC,BCC,BCC-infiltrative,train,DSB121-B-1
+DSB121-B-2,positive,BCC,BCC,BCC-infiltrative,train,DSB121-B-2
+DSB121-C,positive,BCC,BCC,BCC-nodular,test,DSB121-C
+DSB121-C-2,positive,BCC,BCC,BCC-nodular,test,DSB121-C-2
+DSB121-D,positive,BCC,BCC,BCC-nodular,train,DSB121-D
+DSB122-A-1,positive,BCC,BCC,BCC-nodular,train,DSB122-A-1
+DSB122-A-2,positive,BCC,BCC,BCC-nodular,train,DSB122-A-2
+DSB124-A,positive,BCC,BCC,BCC-infiltrative,train,DSB124-A
+DSB124-A-1,positive,BCC,BCC,BCC-infiltrative,test,DSB124-A-1
+DSB125-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB125-A-1
+DSB125-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB125-A-2
+DSB126-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB126-A-1
+DSB126-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB126-A-2
+DSB127-A,negative,negative,nevus,nevus,train,DSB127-A
+DSB127-A-1,negative,negative,nevus,nevus,train,DSB127-A-1
+DSB128-A-1,negative,negative,negative,negative,train,DSB128-A-1
+DSB128-A-2,negative,negative,negative,negative,train,DSB128-A-2
+DSB130-A-1,positive,SCC,SCC,SCC in situ,train,DSB130-A-1
+DSB130-A-2,positive,SCC,SCC,SCC in situ,train,DSB130-A-2
+DSB131-A-1,positive,BCC,BCC,BCC-nodular,train,DSB131-A-1
+DSB131-A-2,positive,BCC,BCC,BCC-nodular,train,DSB131-A-2
+DSB132-A-1,positive,BCC,BCC,BCC-superficial,train,DSB132-A-1
+DSB132-A-2,positive,BCC,BCC,BCC-superficial,test,DSB132-A-2
+DSB132-B-1,positive,BCC,BCC,BCC-nodular,train,DSB132-B-1
+DSB132-B-2,positive,BCC,BCC,BCC-nodular,train,DSB132-B-2
+DSB133-A-1,positive,BCC,BCC,BCC-nodular,test,DSB133-A-1
+DSB133-A-2,positive,BCC,BCC,BCC-nodular,train,DSB133-A-2
+DSB134-A-1,positive,SCC,SCC,SCC in situ,train,DSB134-A-1
+DSB134-A-2,positive,SCC,SCC,SCC in situ,test,DSB134-A-2
+DSB137-A-1,positive,BCC,BCC,BCC-nodular,train,DSB137-A-1
+DSB137-A-2,positive,BCC,BCC,BCC-nodular,train,DSB137-A-2
+DSB137-B-1,positive,BCC,BCC,BCC-nodular,train,DSB137-B-1
+DSB137-B-2,positive,BCC,BCC,BCC-nodular,train,DSB137-B-2
+DSB138-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB138-A-1
+DSB138-A-2,positive,BCC,BCC,BCC-infiltrative,test,DSB138-A-2
+DSB139-A,negative,negative,negative,negative,train,DSB139-A
+DSB139-A-2,negative,negative,negative,Capillary hemangioma,test,DSB139-A-2
+DSB140-A-1,positive,SCC,SCC,SCC in situ,train,DSB140-A-1
+DSB140-A-2,positive,SCC,SCC,SCC in situ,train,DSB140-A-2
+DSB141-A-1,positive,BCC,BCC,BCC-nodular,train,DSB141-A-1
+DSB141-A-2,positive,BCC,BCC,BCC-nodular,train,DSB141-A-2
+DSB142-A-1,positive,BCC,BCC,BCC-nodular,test,DSB142-A-1
+DSB142-B-1,positive,SCC,SCC,SCC-welldiff,test,DSB142-B-1
+DSB143-A-2,positive,BCC,BCC,BCC-superficial,test,DSB143-A-2
+DSB145-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB145-A-1
+DSB145-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB145-A-2
+DSB146-A-1,positive,BCC,BCC,BCC-nodular,train,DSB146-A-1
+DSB146-A-2,positive,BCC,BCC,BCC-nodular,test,DSB146-A-2
+DSB147-A-1,negative,negative,SK,SK,train,DSB147-A-1
+DSB147-A-2,negative,negative,SK,SK,test,DSB147-A-2
+DSB148-A-1,positive,BCC,BCC,BCC-superficial,train,DSB148-A-1
+DSB148-A-2,positive,BCC,BCC,BCC-superficial,train,DSB148-A-2
+DSB149-A-1,positive,SCC,SCC,SCC in situ,train,DSB149-A-1
+DSB149-A-2,positive,SCC,SCC,SCC in situ,train,DSB149-A-2
+DSB150-A-1,negative,negative,AK,AK,train,DSB150-A-1
+DSB150-A-2,negative,negative,AK,AK,train,DSB150-A-2
+DSB151-A-1,positive,SCC,SCC,SCC in situ,train,DSB151-A-1
+DSB151-A-2,positive,SCC,SCC,SCC in situ,test,DSB151-A-2
+DSB152-A-1,positive,SCC,SCC,SCC-welldiff,test,DSB152-A-1
+DSB152-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB152-A-2
+DSB154-A-1,negative,negative,SK,SK,train,DSB154-A-1
+DSB154-A-2,negative,negative,SK,SK,test,DSB154-A-2
+DSB155-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB155-A-1
+DSB155-A-2,positive,BCC,BCC,BCC-infiltrative,test,DSB155-A-2
+DSB157-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB157-A-1
+DSB157-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB157-A-2
+DSB158-A-1,positive,BCC,BCC,BCC-nodular,train,DSB158-A-1
+DSB158-A-2,positive,BCC,BCC,BCC-nodular,train,DSB158-A-2
+DSB159-A,negative,negative,SK,SK,train,DSB159-A
+DSB159-A-2,negative,negative,SK,SK,train,DSB159-A-2
+DSB160-A-1,negative,negative,negative,Lichen simplex chronicus,train,DSB160-A-1
+DSB160-A-2,negative,negative,negative,Lichen simplex chronicus,train,DSB160-A-2
+DSB161-A-1,negative,negative,negative,Inverted follicular keratosis,test,DSB161-A-1
+DSB161-A-2,negative,negative,negative,Inverted follicular keratosis,train,DSB161-A-2
+DSB162-B-1,positive,SCC,SCC,SCC-welldiff,train,DSB162-B-1
+DSB162-B-2,positive,SCC,SCC,SCC-welldiff,train,DSB162-B-2
+DSB163-A-1,positive,BCC,BCC,BCC-nodular,train,DSB163-A-1
+DSB163-A-2,positive,BCC,BCC,BCC-nodular,train,DSB163-A-2
+DSB164-A-1,positive,BCC,BCC,BCC-nodular,train,DSB164-A-1
+DSB164-A-2,positive,BCC,BCC,BCC-nodular,test,DSB164-A-2
+DSB164-B-1,negative,negative,AK,AK,train,DSB164-B-1
+DSB164-B-2,negative,negative,AK,AK,test,DSB164-B-2
+DSB166-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB166-A-1
+DSB166-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB166-A-2
+DSB167-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB167-A-1
+DSB167-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB167-A-2
+DSB168-A-1,positive,BCC,BCC,BCC-nodular,test,DSB168-A-1
+DSB168-A-2,positive,BCC,BCC,BCC-nodular,train,DSB168-A-2
+DSB170-A-1,positive,BCC,BCC,BCC-nodular,train,DSB170-A-1
+DSB170-A-2,positive,BCC,BCC,BCC-nodular,train,DSB170-A-2
+DSB171-A-1,positive,BCC,BCC,BCC-nodular,train,DSB171-A-1
+DSB171-A-2,positive,BCC,BCC,BCC-nodular,train,DSB171-A-2
+DSB172-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB172-A-1
+DSB172-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB172-A-2
+DSB173-A-1,positive,BCC,BCC,BCC-superficial,train,DSB173-A-1
+DSB173-A-2,positive,BCC,BCC,BCC-superficial,test,DSB173-A-2
+DSB173-B-1,positive,BCC,BCC,BCC-superficial,train,DSB173-B-1
+DSB173-B-2,positive,BCC,BCC,BCC-superficial,train,DSB173-B-2
+DSB174-A-1,positive,BCC,BCC,BCC-nodular,train,DSB174-A-1
+DSB174-A-2,positive,BCC,BCC,BCC-nodular,train,DSB174-A-2
+DSB175-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB175-A-1
+DSB175-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB175-A-2
+DSB175-B-1,positive,SCC,SCC,SCC-welldiff,train,DSB175-B-1
+DSB175-B-2,positive,SCC,SCC,SCC-welldiff,test,DSB175-B-2
+DSB176-A-1,positive,BCC,BCC,BCC-nodular,train,DSB176-A-1
+DSB176-A-2,positive,BCC,BCC,BCC-nodular,test,DSB176-A-2
+DSB177-A-1,positive,BCC,BCC,BCC-infiltrative,test,DSB177-A-1
+DSB177-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB177-A-2
+DSB178-A,negative,negative,negative,negative,train,DSB178-A
+DSB178-A-1,negative,negative,negative,negative,test,DSB178-A-1
+DSB179-A,negative,negative,negative,negative,train,DSB179-A
+DSB179-A-2,negative,negative,negative,negative,train,DSB179-A-2
+DSB180-A-1,positive,SCC,SCC,SCC-moddiff,train,DSB180-A-1
+DSB180-A-2,positive,SCC,SCC,SCC-moddiff,train,DSB180-A-2
+DSB181-A-1,positive,SCC,SCC,SCC-moddiff,train,DSB181-A-1
+DSB181-A-2,positive,SCC,SCC,SCC-moddiff,test,DSB181-A-2
+DSB182-A-1,positive,BCC,BCC,BCC-superficial,train,DSB182-A-1
+DSB182-A-2,positive,BCC,BCC,BCC-superficial,train,DSB182-A-2
+DSB182-B-1,positive,BCC,BCC,BCC-superficial,train,DSB182-B-1
+DSB182-B-2,positive,BCC,BCC,BCC-superficial,test,DSB182-B-2
+DSB183-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB183-A-1
+DSB183-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB183-A-2
+DSB184-B-1,positive,BCC,BCC,BCC-nodular,train,DSB184-B-1
+DSB184-B-2,positive,BCC,BCC,BCC-nodular,train,DSB184-B-2
+DSB184-C,negative,negative,SK,SK,train,DSB184-C
+DSB184-C-1,negative,negative,Sk,SK,train,DSB184-C-1
+DSB185-A-1,positive,BCC,BCC,BCC-nodular,train,DSB185-A-1
+DSB185-A-2,positive,BCC,BCC,BCC-nodular,test,DSB185-A-2
+DSB187-A-1,negative,negative,negative,negative,train,DSB187-A-1
+DSB187-A-2,negative,negative,negative,negative,test,DSB187-A-2
+DSB188-A-1,positive,BCC,BCC,BCC-nodular,train,DSB188-A-1
+DSB188-A-2,positive,BCC,BCC,BCC-nodular,test,DSB188-A-2
+DSB189-A-1,positive,BCC,BCC,BCC-nodular,train,DSB189-A-1
+DSB189-A-1,positive,BCC,BCC,BCC-nodular,train,DSB189-A-2
+DSB190-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB190-A-1
+DSB190-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB190-A-2
+DSB191-A,negative,negative,SK,SK,test,DSB191-A
+DSB191-A-2,negative,negative,SK,SK,train,DSB191-A-2
+DSB192-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB192-A-1
+DSB192-A-2,positive,SCC,SCC,SCC-welldiff,test,DSB192-A-2
+DSB193-A-1,positive,BCC,BCC,BCC-nodular,train,DSB193-A-1
+DSB193-A-2,positive,BCC,BCC,BCC-nodular,train,DSB193-A-2
+DSB194-A-1,positive,BCC,BCC,BCC-nodular,train,DSB194-A-1
+DSB194-A-2,positive,BCC,BCC,BCC-nodular,train,DSB194-A-2
+DSB195-A-1,positive,BCC,BCC,BCC-nodular,train,DSB195-A-1
+DSB195-A-2,positive,BCC,BCC,BCC-nodular,train,DSB195-A-2
+DSB195-B-1,positive,BCC,BCC,BCC-infiltrative,train,DSB195-B-1
+DSB195-B-2,positive,BCC,BCC,BCC-infiltrative,train,DSB195-B-2
+DSB197-A,negative,negative,nevus,nevus,test,DSB197-A
+DSB197-A-2,negative,negative,nevus,nevus,train,DSB197-A-2
+DSB198-A-1,positive,BCC,BCC,BCC-superficial,train,DSB198-A-1
+DSB198-A-2,positive,BCC,BCC,BCC-superficial,train,DSB198-A-2
+DSB199-A,negative,negative,negative,negative,train,DSB199-A
+DSB199-A-1,negative,negative,negative,negative,train,DSB199-A-1
+DSB200-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB200-A-1
+DSB200-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB200-A-2
+DSB200-B-1,positive,BCC,BCC,BCC-nodular,test,DSB200-B-1
+DSB200-B-2,positive,BCC,BCC,BCC-nodular,train,DSB200-B-2
+DSB200-C-2,positive,BCC,BCC,BCC-nodular,train,DSB200-C-2
+DSB201-A,negative,negative,negative,negative,train,DSB201-A
+DSB201-A-2,negative,negative,negative,negative,train,DSB201-A-2
+DSB203-B-1,negative,negative,negative,negative,train,DSB203-B-1
+DSB203-B-2,negative,negative,negative,negative,test,DSB203-B-2
+DSB204-A-1,positive,BCC,BCC,BCC-nodular,train,DSB204-A-1
+DSB204-A-2,positive,BCC,BCC,BCC-nodular,train,DSB204-A-2
+DSB205-A-1,positive,SCC,SCC,SCC in situ,train,DSB205-A-1
+DSB205-A-2,positive,SCC,SCC,SCC in situ,train,DSB205-A-2
+DSB206-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB206-A-1
+DSB206-A-2,positive,SCC,SCC,SCC-welldiff,test,DSB206-A-2
+DSB207-A-1,positive,BCC,BCC,BCC-nodular,train,DSB207-A-1
+DSB207-A-2,positive,BCC,BCC,BCC-nodular,train,DSB207-A-2
+DSB37-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB37-A-2
+DSB37-B-1,positive,BCC,BCC,BCC-infiltrative,train,DSB37-B-1
+DSB37-B-2,positive,BCC,BCC,BCC-infiltrative,train,DSB37-B-2
+DSB38-A,positive,SCC,SCC,SCC-welldiff,test,DSB38-A
+DSB38-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB38-A-1
+DSB39-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB39-A-1
+DSB39-A-2,positive,BCC,BCC,BCC-infiltrative,test,DSB39-A-2
+DSB40-A-1,positive,SCC,SCC,SCC in situ,train,DSB40-A-1
+DSB40-A-2,positive,SCC,SCC,SCC in situ,train,DSB40-A-2
+DSB41-A-1,positive,SCC,SCC,SCC-moddiff,train,DSB41-A-1
+DSB41-A-2,positive,SCC,SCC,SCC-moddiff,test,DSB42-A-2
+DSB41-B-1,positive,SCC,SCC,SCC-welldiff,test,DSB41-B-1
+DSB41-B-2,positive,SCC,SCC,SCC-welldiff,train,DSB41-B-2
+DSB42-A-1,positive,BCC,BCC,BCC-superficial,test,DSB42-A-1
+DSB42-A-2,positive,BCC,BCC,BCC-superficial,train,DSB42-A-2
+DSB43-A,negative,negative,SK,SK,train,DSB43-A
+DSB43-A-1,negative,negative,SK,SK,train,DSB43-A-1
+DSB44-A,negative,negative,AK,AK,train,DSB44-A
+DSB44-A-2,negative,negative,negative,negative,train,DSB44-A-2
+DSB45-A-1,negative,negative,SK,SK,train,DSB45-A-1
+DSB45-A-2,negative,negative,SK,SK,train,DSB45-A-2
+DSB46-A,negative,negative,nevus,nevus,train,DSB46-A
+DSB46-A-1,negative,negative,nevus,nevus,train,DSB46-A-1
+DSB47-A-1,positive,BCC,BCC,BCC-nodular,train,DSB47-A-1
+DSB47-A-2,positive,BCC,BCC,BCC-nodular,train,DSB47-A-2
+DSB49-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB49-A-1
+DSB49-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB49-A-2
+DSB49-B-1,positive,SCC,SCC,SCC-welldiff,train,DSB49-B-1
+DSB49-B-2,positive,SCC,SCC,SCC-welldiff,test,DSB49-B-2
+DSB50-B-1,positive,BCC,BCC,BCC-nodular,train,DSB50-B-1
+DSB50-B-2,positive,BCC,BCC,BCC-nodular,train,DSB50-B-2
+DSB50-C-1,positive,BCC,BCC,BCC-nodular,train,DSB50-C-1
+DSB50-C-2,positive,BCC,BCC,BCC-nodular,test,DSB50-C-2
+DSB51-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB51-A-1
+DSB51-A-2,positive,SCC,SCC,SCC-welldiff,test,DSB51-A-2
+DSB52-A-1,positive,BCC,BCC,BCC-nodular,train,DSB52-A-1
+DSB52-A-2,positive,BCC,BCC,BCC-nodular,train,DSB52-A-2
+DSB52-B-1,positive,BCC,BCC,BCC-infiltrative,train,DSB52-B-1
+DSB52-B-2,positive,BCC,BCC,BCC-infiltrative,train,DSB52-B-2
+DSB54-A-1,negative,negative,negative,negative,train,DSB54-A-1
+DSB54-A-2,negative,negative,negative,negative,train,DSB54-A-2
+DSB55-A-1,positive,SCC,SCC,SCC-moddiff,train,DSB55-A-1
+DSB55-A-2,positive,SCC,SCC,SCC-moddiff,train,DSB55-A-2
+DSB56-A-1,positive,BCC,BCC,BCC-nodular,train,DSB56-A-1
+DSB56-A-2,positive,BCC,BCC,BCC-nodular,train,DSB56-A-2
+DSB56-B-1,positive,BCC,BCC,BCC-nodular,train,DSB56-B-1
+DSB56-B-2,positive,BCC,BCC,BCC-nodular,train,DSB56-B-2
+DSB57-A-1,positive,SCC,SCC,SCC in situ,train,DSB57-A-1
+DSB57-A-2,positive,SCC,SCC,SCC in situ,train,DSB57-A-2
+DSB58-A-1,positive,SCC,SCC,SCC in situ,train,DSB58-A-1
+DSB58-B,negative,negative,SK,SK,train,DSB58-B
+DSB61-A-1,positive,BCC,BCC,BCC-nodular,train,DSB61-A-1
+DSB61-A-2,positive,BCC,BCC,BCC-nodular,train,DSB61-A-2
+DSB63-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB63-A-1
+DSB63-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB63-A-2
+DSB63-B-1,positive,SCC,SCC,SCC-welldiff,train,DSB63-B-1
+DSB63-B-2,positive,SCC,SCC,SCC-welldiff,test,DSB63-B-2
+DSB64-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB64-A-1
+DSB64-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB64-A-2
+DSB65-A-1,positive,BCC,BCC,BCC-nodular,train,DSB65-A-1
+DSB65-A-2,positive,BCC,BCC,BCC-nodular,train,DSB65-A-2
+DSB66-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB66-A-1
+DSB66-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB66-A-2
+DSB66-B-1,negative,negative,AK,AK,train,DSB66-B-1
+DSB66-B-2,negative,negative,AK,AK,test,DSB66-B-2
+DSB67-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB67-A-1
+DSB67-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB67-A-2
+DSB68-A,negative,negative,negative,negative,test,DSB68-A
+DSB68-A-2,negative,negative,negative,negative,train,DSB68-A-2
+DSB69-A,negative,negative,nevus,nevus,train,DSB69-A
+DSB69-A-2,negative,negative,nevus,nevus,train,DSB69-A-2
+DSB70-A,negative,negative,negative,negative,train,DSB70-A
+DSB70-A-1,negative,negative,negative,negative,train,DSB70-A-1
+DSB71-A-1,negative,negative,negative,negative,train,DSB71-A-1
+DSB71-A-2,negative,negative,negative,negative,test,DSB71-A-2
+DSB72-A-1,positive,SCC,SCC,SCC in situ,train,DSB72-A-1
+DSB72-A-2,positive,SCC,SCC,SCC in situ,train,DSB72-A-2
+DSB73-A-1,positive,BCC,BCC,BCC-nodular,train,DSB73-A-1
+DSB73-A-2,positive,BCC,BCC,BCC-nodular,train,DSB73-A-2
+DSB74-B-1,positive,BCC,BCC,BCC-nodular,train,DSB74-B-1
+DSB74-B-2,positive,BCC,BCC,BCC-nodular,train,DSB74-B-2
+DSB75-A-1,positive,SCC,SCC,SCC in situ,train,DSB75-A-1
+DSB75-A-2,positive,SCC,SCC,SCC in situ,train,DSB75-A-2
+DSB76-B-1,positive,SCC,SCC,SCC in situ,train,DSB76-B-1
+DSB76-B-2,positive,SCC,SCC,SCC in situ,test,DSB76-B-2
+DSB77-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB77-A-1
+DSB77-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB77-A-2
+DSB78-A,negative,negative,SK,SK,test,DSB78-A
+DSB78-A-2,negative,negative,SK,SK,train,DSB78-A-2
+DSB80-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB80-A-1
+DSB80-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB80-A-2
+DSB81-A-1,positive,BCC,BCC,BCC-nodular,train,DSB81-A-1
+DSB81-A-2,positive,BCC,BCC,BCC-nodular,train,DSB81-A-2
+DSB82-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB82-A-1
+DSB82-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB82-A-2
+DSB83-A,negative,negative,negative,negative,train,DSB83-A
+DSB83-A-1,negative,negative,negative,negative,train,DSB83-A-1
+DSB84-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB84-A-1
+DSB84-A-2,positive,BCC,BCC,BCC-infiltrative,test,DSB84-A-2
+DSB85-A,negative,negative,negative,negative,train,DSB85-A
+DSB87-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB87-A-1
+DSB87-A-2,positive,SCC,SCC,SCC-welldiff,train,DSB87-A-2
+DSB89-A,negative,negative,negative,negative,test,DSB89-A
+DSB89-A-2,negative,negative,negative,negative,train,DSB89-A-2
+DSB90-A-2,negative,negative,negative,negative,train,DSB90-A-2
+DSB91-A,negative,negative,negative,negative,train,DSB91-A
+DSB91-A-2,negative,negative,negative,negative,test,DSB91-A-2
+DSB92-B-1,negative,negative,negative,negative,train,DSB92-B-1
+DSB92-B-2,negative,negative,negative,negative,test,DSB92-B-2
+DSB93-A,negative,negative,negative,negative,train,DSB93-A
+DSB93-A-1,negative,negative,negative,negative,test,DSB93-A-1
+DSB94-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB94-A-1
+DSB94-A-2,positive,BCC,BCC,BCC-infiltrative,train,DSB94-A-2
+DSB95-B-1,positive,BCC,BCC,BCC-nodular,test,DSB95-B-1
+DSB95-B-2,positive,BCC,BCC,BCC-nodular,train,DSB95-B-2
+DSB96-A-1,positive,BCC,BCC,BCC-superficial,train,DSB96-A-1
+DSB96-A-2,positive,BCC,BCC,BCC-superficial,train,DSB96-A-2
+DSB97-A-1,positive,BCC,BCC,BCC-infiltrative,train,DSB97-A-1
+DSB97-A-2,positive,BCC,BCC,BCC-infiltrative,test,DSB97-A-2
+DSB98-A-1,positive,SCC,SCC,SCC-welldiff,train,DSB98-A-1
+DSB98-A-2,positive,SCC,SCC,SCC-welldiff,test,DSB98-A-2
+DSB99-B-1,negative,negative,negative,negative,train,DSB99-B-1
+DSB99-B-2,negative,negative,negative,negative,test,DSB99-B-2
